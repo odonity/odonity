@@ -22,7 +22,7 @@ We share reusable Odoo modules, integrations, and tools to support the Odoo comm
 
 ## 🤝 Let’s Work Together
 📧 Email: odonity.services@gmail.com  
-🌍 Website: https://www.odonity.com 
+🌍 Website: https://www.odonity.com   
 💼 LinkedIn: https://www.linkedin.com/in/odonity-support
 
 ---
